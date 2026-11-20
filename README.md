@@ -16,7 +16,6 @@ De flesta projekten är privata. Hör av dig om du vill se koden.
 
 ## Tidigare lärprojekt
 
-[game-hub](https://github.com/JudyTutala95/game-hub) ·
 [react-app](https://github.com/JudyTutala95/react-app) ·
 [docker](https://github.com/JudyTutala95/docker) ·
 [mortgage-calculator](https://github.com/JudyTutala95/mortgage-calculator)
